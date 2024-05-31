@@ -1,7 +1,10 @@
+package Practice.String;
 import java.util.*;
-
-public class Main {
+public class _05 {
     public static void main(String[] args) {
+
+        // https://www.acmicpc.net/problem/2444
+        // 별 찍기 - 7 : 브론즈 3
 
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
