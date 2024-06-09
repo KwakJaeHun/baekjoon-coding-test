@@ -7,7 +7,7 @@ public class _01 {
         // https://www.acmicpc.net/problem/11659
 
         // 합배열 공식 : S[i] = s[i - 1] + A[i]
-        // 합배열 구간함 공식 : S[j] - S[i-1] - i번째 부터 j번째까지
+        // 합배열 구간함 공식 : S[j] - S[i-1]
 
         Scanner sc = new Scanner(System.in);
 
