@@ -1,11 +1,12 @@
-package Week2.Day4;
-import java.util.*;
+package Week2.Day5;
+
 import java.io.*;
-public class BFS {
+import java.util.*;
+public class _04 {
     // 나이트 이동 좌표
     static int[] moveX = {2,   1,  -2,  -1,  2,  1,  -2,  -1};
     static int[] moveY = {-1, -2,  -1,  -2,  1,  2,   1,   2} ;
-
+    
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -42,7 +43,7 @@ public class BFS {
             int x = nowQueue[0];
             int y = nowQueue[1];
             int count = nowQueue[2];
-
+            
             // 움직일 수 있는 좌표 모두 검색
             for (int i = 0; i < 8; i++) {
                 int nx = x + moveX[i];
