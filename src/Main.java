@@ -5,6 +5,8 @@ import java.util.HashSet;
 
 public class Main {
 
+    // test
+
     static int n,k;
     static String[] card;
     static boolean[] visited;
