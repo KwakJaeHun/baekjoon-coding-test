@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Day6 {
 
-    // https://school.programmers.co.kr/learn/courses/30/lessons/250136
+    // https://school.programmers.co.kr/learn/courses/30/lessons/169199
 
     public static void main(String[] args) {
 
