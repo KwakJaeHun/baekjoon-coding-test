@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Day7 {
-// https://school.programmers.co.kr/learn/courses/30/lessons/250136
+// https://school.programmers.co.kr/learn/courses/30/lessons/159993
 
     public static  int n;
     public static  int m;
