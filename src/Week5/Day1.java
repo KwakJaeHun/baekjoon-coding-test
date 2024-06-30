@@ -7,7 +7,7 @@ import java.util.Queue;
 
 public class Day1 {
 
-    // https://school.programmers.co.kr/learn/courses/30/lessons/154540
+    // https://school.programmers.co.kr/learn/courses/30/lessons/154540 - 무인도 여행
 
     private static int m;
     private static int n;
